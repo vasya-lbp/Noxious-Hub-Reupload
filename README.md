@@ -1,3 +1,5 @@
+- copy this script and paste it into your executor: loadstring(game:HttpGet("https://raw.githubusercontent.com/vasya-lbp/Noxious-Hub-Reupload/refs/heads/main/Noxious%20Hub.txt"))()
+
 - Logs of tests of the noxious hub functionality are stored here.
 
 - guis: ❌ fgui, scgui, and other commands related to gui loading are not working
